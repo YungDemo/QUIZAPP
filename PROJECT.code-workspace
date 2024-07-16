@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../PROJECT"
+		},
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"etmoffat.pip-packages",
+			"petersteiner.pip-installer",
+			"slightc.pip-manager",
+			"ms-python.python",
+			"kevinrose.vsc-python-indent",
+			"donjayamanne.python-extension-pack"
+		]
+	},
+	"settings": {
+		"terminal.integrated.suggest.enabled": true
+	}
+}
